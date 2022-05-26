@@ -33,6 +33,7 @@ p {
 
 button {
   box-sizing: border-box;
+  border-color: #1a2236;
   font-family: 'Poppins', serif;
   font-size: 16px;
   width: 288px;
@@ -41,4 +42,14 @@ button {
   background: #1a2236;
   color: white;
   margin-bottom: 17px;
+}
+
+button:hover {
+  color: #1a2236;
+  background: white;
+}
+
+button:active {
+  color: #1a2236;
+  background: white;
 }
