@@ -6,3 +6,38 @@ nav {
   display: flex;
   justify-content: space-between;
 }
+
+h1 {
+  color: #1A2236;
+  width: 220px;
+  line-height: 100%;
+  margin-top: 19px;
+  margin-left: 16px;
+  font-weight: 400;
+  font-family: 'Playfair Display';
+  font-size: 50px;
+}
+
+p {
+  color: #1A2236;
+  width: 288px;
+  height: 126px;
+  margin-top: 21px;
+  margin-left: 16px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+button {
+  box-sizing: border-box;
+  position: absolute;
+  width: 288px;
+  height: 50px;
+  left: 16px;
+  top: 390px;
+  background: #1A2236;
+  color: white;
+}
+
