@@ -1,5 +1,6 @@
-* {
-  margin: 0;
+.artdeco1{
+  margin-left: -8px;
+  margin-top: -8px;
 }
 
 nav {
@@ -21,7 +22,7 @@ h1 {
 p {
   color: #1A2236;
   width: 288px;
-  height: 126px;
+  height: 80px;
   margin-top: 21px;
   margin-left: 16px;
   font-family: 'Poppins';
@@ -32,12 +33,12 @@ p {
 
 button {
   box-sizing: border-box;
-  position: absolute;
+  font-family: 'Poppins';
   width: 288px;
+  margin-left: 16px;
   height: 50px;
-  left: 16px;
-  top: 390px;
   background: #1A2236;
   color: white;
+  margin-bottom: 17px;
 }
 
