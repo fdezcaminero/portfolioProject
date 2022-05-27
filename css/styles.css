@@ -1,0 +1,56 @@
+.artdeco1 {
+  margin-left: -8px;
+  margin-top: -8px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  color: #1a2236;
+  width: 220px;
+  line-height: 100%;
+  margin-top: 19px;
+  margin-left: 16px;
+  font-weight: 400;
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+}
+
+p {
+  color: #1a2236;
+  width: 288px;
+  height: 80px;
+  margin-top: 21px;
+  margin-left: 16px;
+  font-family: 'Poppins', serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+button {
+  border-color: #1a2236;
+  font-family: 'Poppins', serif;
+  font-size: 16px;
+  width: 288px;
+  margin-left: 16px;
+  height: 50px;
+  background: #1a2236;
+  color: white;
+  margin-bottom: 17px;
+  border-width: 1px 1px 1px 1px;
+}
+
+button:hover {
+  color: #1a2236;
+  background: white;
+}
+
+button:active {
+  color: #1a2236;
+  background: white;
+  border-width: 2px 2px 2px 2px;
+}
